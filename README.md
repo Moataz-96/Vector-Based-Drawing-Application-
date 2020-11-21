@@ -78,5 +78,7 @@ button for drawing the new shape
 
 
 Screenshots:
-
+<img src="ScreenShots/1.png"/>
+<img src="ScreenShots/2.png"/>
+<img src="ScreenShots/3.png"/>
 
